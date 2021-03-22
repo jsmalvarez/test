@@ -1,3 +1,3 @@
 # test
 
-### Jugando con GIT
+### Practicando con GIT
